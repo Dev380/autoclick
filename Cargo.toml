@@ -3,6 +3,12 @@ name = "autoclick"
 version = "0.1.0"
 authors = ["Dev380 <49997896+Dev380@users.noreply.github.com>"]
 edition = "2018"
+description = "A simple application that moves your mouse and clicks every five seconds."
+readme = "README.md"
+homepage = "https://github.com/Dev380/autoclick/"
+repository = "https://github.com/Dev380/autoclick/"
+license = "GPL-3.0"
+keywords = ["autoclick"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
