@@ -1,0 +1,14 @@
+[package]
+name = "autoclick"
+version = "0.1.0"
+authors = ["Dev380 <49997896+Dev380@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+enigo = "0.0.14"
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
