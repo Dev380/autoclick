@@ -18,4 +18,3 @@ enigo = "0.0.14"
 [profile.release]
 lto = "fat"
 codegen-units = 1
--C target-cpu=native
