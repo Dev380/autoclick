@@ -14,6 +14,8 @@ For example, with apt:
 '''
 sudo apt install libxdo-dev
 '''
+# Issues
+Issue/feature and pull requests are welcome! 
 
 # Copyright
 
