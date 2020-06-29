@@ -8,6 +8,12 @@ cargo install autoclick
 Keep in mind that you need cargo installed. To install the cargo package manager, the easiest way to do so is clicking [here](https://www.rust-lang.org/tools/install).
 # crates.io
 If any rust programmer is making a project of more important signifigance than mine, please contact me if you want ownership of the autoclick name on crates.io.
+# GNU/Linux
+Linux users may have to install libxdo-dev.
+For example, with apt:
+'''
+sudo apt install libxdo-dev
+'''
 
 # Copyright
 

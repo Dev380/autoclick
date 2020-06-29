@@ -14,6 +14,8 @@ keywords = ["autoclick"]
 
 [dependencies]
 enigo = "0.0.14"
+ron = "0.6.0"
+serde = "1.0.114"
 
 [profile.release]
 lto = "fat"
