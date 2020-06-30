@@ -1,6 +1,6 @@
 [package]
 name = "autoclick"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Dev380 <49997896+Dev380@users.noreply.github.com>"]
 edition = "2018"
 description = "A simple application that moves your mouse and clicks every five seconds."
