@@ -1,5 +1,5 @@
 # autoclick
-A simple application that moves your mouse and clicks every five seconds. Useful to make it look like you are using your computer by making sure your screensaver doesn't turn on.
+A simple application that moves your mouse and clicks every few seconds. Useful to make it look like you are using your computer by making sure your screensaver doesn't turn on.
 # download
 The easiest way to download this it to run
 ```
@@ -11,11 +11,11 @@ If any rust programmer is making a project of more important signifigance than m
 # GNU/Linux
 Linux users may have to install libxdo-dev.
 For example, with apt:
-'''
+```
 sudo apt install libxdo-dev
-'''
+```
 # Issues
-Issue/feature and pull requests are welcome! 
+Issue/feature and pull requests are welcome!
 
 # Copyright
 
