@@ -4,7 +4,7 @@ pub fn debug(seconds: u64) {
     println!(
         "DEBUG canary. If this message does not appear in {} seconds, an error has occured.
 Change the debug variable in config.ron to 'false' if you don't want these messages to appear.
-{:?} If you installed via cargo, it will be in your home directory.
+{:?} If you installed via cargo, it will be in the directory you are currently in.
 ",
         seconds,
         SystemTime::now()
