@@ -16,6 +16,8 @@ sudo apt install libxdo-dev
 ```
 # Issues
 Issue/feature and pull requests are welcome!
+# Note
+You should stay in the same directory every time you use autoclick, because it checks for a config file in the current directory only. If you want, you can use this functionality to create 'profiles' in different folders.
 
 # Copyright
 
