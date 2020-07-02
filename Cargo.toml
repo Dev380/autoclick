@@ -18,5 +18,5 @@ ron = "0.6.0"
 serde = "1.0.114"
 
 [profile.release]
-lto = "fat"
-codegen-units = 1
+#lto = "fat"
+#codegen-units = 1
